@@ -1,2 +1,2 @@
 # stock_predictor
-Using Tenserflow regression model to predict stock prices
+Tenserflow app that uses regression models to predict stock
